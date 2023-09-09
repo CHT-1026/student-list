@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\曹浩田\Desktop\代码\c code\学生名单\Project1\Project1\源.cpp(435): warning C4715: “read_gender”: 不是所有的控件路径都返回值
+C:\Users\曹浩田\Desktop\代码\c code\学生名单\Project1\Project1\源.cpp(463): warning C4715: “read_major”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\曹浩田\Desktop\代码\c code\学生名单\Project1\x64\Debug\Project1.exe
