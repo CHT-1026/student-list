@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\曹浩田\Desktop\代码\c code\链表的合并\Project1\源.cpp(27,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\曹浩田\Desktop\代码\c code\链表的合并\Project1\源.cpp(93,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\曹浩田\Desktop\代码\c code\链表的合并\Project1\x64\Debug\Project1.exe
